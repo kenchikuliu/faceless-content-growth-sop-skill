@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faceless Growth SOP"
+  short_description: "Build a faceless content growth operating system."
+  default_prompt: "Use $faceless-content-growth-sop-skill to build a direct SOP, checklist, and monetization plan for a faceless content business."
