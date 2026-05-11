@@ -41,6 +41,8 @@ When using this skill, produce outputs that are directly executable:
 - Use tables when comparing niches, costs, timelines, or revenue models.
 - Flag speculative revenue claims as examples or claimed benchmarks, not facts.
 
+When the user wants a package they can execute immediately, use the template assets in `assets/templates/` or scaffold a copy with `scripts/bootstrap_pack.py`.
+
 ## Minimal Process
 
 1. Identify the business model: service-led, media-led, or hybrid.
@@ -59,3 +61,17 @@ When using this skill, produce outputs that are directly executable:
 - Use [references/prompts.md](references/prompts.md) when the user needs reusable prompt blocks.
 - Use [references/checklists.md](references/checklists.md) when the user needs launch or operating checklists.
 - Use [references/tables.md](references/tables.md) when the user needs niche, monetization, tooling, cadence, or revenue tables.
+
+## Execution Pack
+
+Use these repo resources when the user wants a half-finished operating pack instead of advice:
+
+- `scripts/bootstrap_pack.py`: copies the template bundle into a target directory.
+- `assets/templates/`: reusable planning docs, scorecards, and operating sheets.
+- `assets/examples/`: example filled outputs showing how the templates should look in practice.
+
+Recommended usage:
+
+1. Pick the model: service-led, media-led, or hybrid.
+2. Copy the matching templates into the user's working directory.
+3. Fill them using the prompts and tables from `references/`.
