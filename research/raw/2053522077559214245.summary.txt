@@ -1,0 +1,55 @@
+﻿URL: https://x.com/shmidtqq/status/2053522077559214245
+Author: shmidt (@shmidtqq)
+Created UTC: Sun May 10 17:06:30 +0000 2026
+Title: $15,400 from YouTube + TikTok + Instagram Using Only Claude & $20
+Stats: replies=23, retweets=29, likes=284, bookmarks=591, views=76585
+Preview:
+A laptop. A $20 Claude subscription. No camera, no editor, no team. That was my whole setup five months ago.
+Today the system runs across three platforms at the same time. YouTube (long form and
+
+Top outline:
+[unstyled] A laptop. A $20 Claude subscription. No camera, no editor, no team. That was my whole setup five months ago.
+[unstyled] Today the system runs across three platforms at the same time. YouTube (long form and Shorts). TikTok. Instagram Reels. Same source content, three completely different audiences, three separate income streams stacked on top of each other.
+[unstyled] Last month I cleared $15,400. Claude wrote every script. ElevenLabs voiced every word. CapCut assembled every clip. A 130 line Python script published to all three platforms while I slept. I spent maybe four hours a week running the system.
+[unstyled] This is a long playbook. Every prompt is copy paste ready. The code at the end actually runs. You will probably want to come back to this, so save it now and start with whichever part you need today.
+[header-two] What is inside
+[ordered-list-item] Why three platforms beat one
+[ordered-list-item] The actual income breakdown at $15K
+[ordered-list-item] PROMPT: niche selection
+[ordered-list-item] The content factory pipeline
+[ordered-list-item] PROMPT: master cross platform script
+[ordered-list-item] Voiceover and visual assembly
+[ordered-list-item] PROMPT: platform specific metadata in JSON
+[ordered-list-item] The posting cadence that compounds
+[ordered-list-item] The full monetization stack
+[ordered-list-item] Seven mistakes that cost me three months
+[ordered-list-item] BONUS: auto publishing pipeline (Claude prompt + Python script)
+[ordered-list-item] Scheduling the whole thing on autopilot
+[ordered-list-item] The save and apply checklist
+[header-two] 1. Why three platforms beat one
+[unstyled] Most people pick one platform and grind. That is a mistake. Each platform pays differently, ranks differently, and reaches a different audience. Running all three at once is not three times the work. With Claude it is about 1.4 times the work for roughly 4 to 5 times the income.
+[unstyled] Here is what each platform actually pays in 2026:
+[unstyled] A single video idea, repurposed correctly, hits all six of these revenue lines at once. That is the leverage nobody talks about.
+[header-two] 2. The actual income breakdown at $15K
+[unstyled] Here is what an actual working channel pulls when all three platforms are running. These are roughly my numbers from last month:
+[unstyled] No single stream is the whole pie. That is the point. One platform changes its algorithm, you lose 20 percent. You do not lose the business.
+[header-two] 3. PROMPT: niche selection
+[unstyled] I picked a niche I liked the first time. Got crushed. The niche has to win on three filters: it has to monetize, it has to be visually demonstrable for short form, and it has to have enough depth for long form YouTube. Most niches fail at least one.
+[unstyled] Run this before you build anything:
+[unstyled] The niches that almost always win the cross platform game are personal finance, health and supplements, AI tools, home and tech gadgets, and self improvement. The niches that lose are anything you cannot demonstrate visually in 8 seconds.
+[header-two] 4. The content factory pipeline
+[unstyled] Not theory, the exact path from an empty Notion page to nine pieces of distributed content:
+[unstyled] Thirteen pieces of content from one idea. Time investment for the whole batch: about 3 hours once the system is dialled in. Until you bolt on the auto publishing layer in Part 11, the bottleneck is uploading. After that, the bottleneck disappears.
+[header-two] 5. PROMPT: master cross platform script
+[unstyled] This single prompt does most of the heavy lifting. It outputs a long form YouTube script and the four short form clips at the same time, so nothing is wasted.
+[unstyled] This single prompt replaces a scriptwriter at $200 per video, a social media manager at $40 per post, and an SEO specialist at $50 per upload. One run, a week of content.
+[header-two] 6. Voiceover and visual assembly
+[unstyled] ElevenLabs is the entire voiceover layer. The free plan covers a couple of short videos so you can test the workflow. The $22 plan handles a full publishing schedule across all three platforms.
+[unstyled] A practical tip nobody tells you: do not use the default ElevenLabs voices. Every faceless channel uses them and your audience knows. Clone a custom voice from a 30 second sample (royalty free voice acting marketplaces have these for under $10) and your channel sounds unique.
+[unstyled] For visuals, the stack is simple. Pexels and Pixabay for stock footage. Canva or CapCut auto captions. CapCut beat reactor for syncing cuts to the audio. The long form video assembles in about 90 minutes once you have the script and voiceover. Each short cuts down to 15 minutes.
+[header-two] 7. PROMPT: platform specific metadata in JSON
+[unstyled] I had a video with 600 views that should have had 60,000. Script was solid. Voice was clean. Title was a disaster.
+[unstyled] Each platform wants different metadata. This prompt handles all three at once, and outputs everything as JSON so the auto publishing script in Part 11 can read it directly.
+[unstyled] You will see in Part 11 why JSON output matters. The script literally reads this file.
+[header-two] 8. The posting cadence that compounds
+[unstyled] Not theory, the schedule that built it:
